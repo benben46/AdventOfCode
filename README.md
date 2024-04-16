@@ -1,8 +1,7 @@
 # [AdventOfCode](https://adventofcode.com/)
-2023- Python
-
-JS
-TS
+Spring'24- Python
+Summer'24- JS
+Summer'24- TS
 Lua
 C#
 Go/Carbon
