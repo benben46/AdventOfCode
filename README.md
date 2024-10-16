@@ -1,9 +1,9 @@
 # [AdventOfCode](https://adventofcode.com/)
-Spring'24- Python
-Summer'24- JS
-Summer'24- TS
-Lua
-C#
+
+Oct'24 - Feb'25: Python,JS,TS
+Feb'25 - Apr'25: Lua
+Apr'25 - Jul'25: Swift/Kotlin
+
 Go/Carbon
-Swift/Kotlin
+C#
 
